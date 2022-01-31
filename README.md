@@ -1,6 +1,6 @@
 # nixos-configuration
 
-After partitioning, before running `nixos-genrate-config`:
+After partitioning, before running `nixos-generate-config`:
 
 ```sh
 mkdir /mnt/etc

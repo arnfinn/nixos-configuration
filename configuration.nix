@@ -76,7 +76,10 @@
     nodejs
     yarn
     vscode
-  ];
+    psensor
+    inkscape
+    flameshot
+];
 
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
